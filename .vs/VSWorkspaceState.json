@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\public",
+    "\\public\\js",
+    "\\resources",
+    "\\resources\\js",
+    "\\resources\\views",
+    "\\resources\\views\\users",
+    "\\routes"
+  ],
+  "SelectedNode": "\\public\\js\\user.js",
+  "PreviewInSolutionExplorer": false
+}
